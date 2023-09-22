@@ -3,6 +3,17 @@
 
 [https://www.youtube.com/watch?v=_-xenbYkazA&t=1010s](https://www.youtube.com/watch?v=_-xenbYkazA&t=1010s) - видео с разбором задания
 
+▪ https://t.me/data_analysis_ml -подписывайтесь на наш телеграм анализ данных на Python, где мы Data Science обучаем на практике. 
+
+▪ https://t.me/addlist/2Ls-snqEeytkMDgy - маст-хэв папка для всех, кто интересуется машинным обучением.
+
+▪ https://github.com/Develp10/juniortestpython-/blob/main/Matrix.py - код из видео 
+
+▪ https://github.com/Develp10/juniortestpython-/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BE%D0%B1%D1%85%D0%BE%D0%B4_%D0%BC%D0%B0%D1%82%D1%80%D0%B8%D1%86%D1%8B_%D0%BF%D0%BE_%D1%81%D0%BF%D0%B8%D1%80%D0%B0%D0%BB%D0%B8.ipynb - тестовове задание
+
+▪  https://github.com/Develp10/juniortestpython-/blob/main/test_Matrix.py - тест 
+
+▪ https://uproger.com/spisok-realnyh-testovyh-zadanij-s-sobesedovanij-po-vsem-yazykam-programmirovaniya/ - Список реальных тестовых заданий с собеседований по всем языкам программирования.
 
 В этом уроке мы будем разбирать тестовое задание для начинающих разработчиков на языке программирования Python. В этом видео я подробно рассмотрю тестовое задание, а также объясню как правильно его решить.
 
